@@ -1,0 +1,22 @@
+{
+  "name": "vscode-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharno/vscode-performance-errors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharno/vscode-performance-errors/issues"
+  },
+  "homepage": "https://github.com/sharno/vscode-performance-errors#readme",
+  "dependencies": {
+    "flow-bin": "^0.69.0"
+  }
+}
